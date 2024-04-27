@@ -1,10 +1,10 @@
 # Temperature-and-Humidity
 
 Materials;
--DHT11 sensor
--LCD display I2C
--Arduino Uno
--9 volt Battery
+- DHT11 sensor
+- LCD display I2C
+- Arduino Uno
+- 9 volt Battery
 
 
 
